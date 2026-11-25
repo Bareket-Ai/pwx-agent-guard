@@ -1,0 +1,7 @@
+{
+  "mcpServers": {
+    "pwx-agent-guard": {
+      "url": "https://mcp.bareket.ai"
+    }
+  }
+}

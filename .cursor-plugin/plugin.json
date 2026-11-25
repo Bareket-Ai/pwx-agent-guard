@@ -1,0 +1,14 @@
+{
+  "name": "pwx-agent-guard",
+  "description": "Security for your GPU, TPU and CPU, all the way down. Before an agent touches hardware (power cap, clocks, firmware, BMC, power-cycle, GPU allocation) it asks PWX for an allow / hold / deny verdict and records the chain from agent to silicon. By BareketAI.",
+  "version": "0.2.0",
+  "author": {
+    "name": "BareketAI",
+    "email": "se@bareket.ai"
+  },
+  "homepage": "https://mcp.bareket.ai",
+  "repository": "https://github.com/Bareket-Ai/pwx-agent-guard",
+  "license": "MIT",
+  "logo": "assets/logo.png",
+  "keywords": ["agent-security", "mcp", "gpu", "tpu", "cpu", "hardware", "power", "bareketai", "pwx"]
+}
